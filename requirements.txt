@@ -1,5 +1,0 @@
-matplotlib
-sklearn
-scikit-learn
-pip install --upgrade pip
-pip install scikit-learn
